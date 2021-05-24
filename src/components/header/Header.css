@@ -1,0 +1,24 @@
+
+.header-inner .item img
+{
+    width: 150px;
+    
+}
+
+.header-inner .item ul
+{
+    list-style-type: none;
+    display: flex;
+    margin-bottom: 0px;
+
+}
+.header-inner {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+.item ul li{
+    margin-left: 8px;
+}
